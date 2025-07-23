@@ -1,8 +1,8 @@
-<h1 align="center">Hi, my name is André Lopes!</h1>
+<h1 align="center">Olá, meu nome é André Lopes!</h1>
 
 ###
 
-<p align="left">I'm a Web Developer with experience in Python, and a foundational understanding of Golang. I'm passionate about learning new technologies and continuously honing my skills.</p>
+<p align="left">Sou um deselvolvedor Python, com experiência em outras linguagens como Golang e Javascript. Sempre aberto a aprender algo novo e enfrentar novos desafios.</p>
 
 ###
 
