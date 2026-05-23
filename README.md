@@ -23,8 +23,3 @@ Full-Stack Developer · Brazil
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-## Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrelopes-code&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrelopes-code&theme=github_dark)
